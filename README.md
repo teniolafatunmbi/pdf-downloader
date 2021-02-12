@@ -14,5 +14,3 @@ HOW TO USE THE PDF DOWNLOADER SCRIPT.
 5. Wait until the download is finished(depending on your internet connection and the size of the files). It is
 advisable to leave the window opened until the execution finishes.
 
-Written by Omoteniola
-Github: github.com/Omoteniola-dev
