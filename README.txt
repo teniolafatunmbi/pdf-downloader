@@ -1,10 +1,17 @@
-Usage:
-1. Copy the URL to the page you want to download from
+ABOUT PDF DOWNLOADER.
+Pdf downloader downloads multiple pdf files from a specified URL to your local machine.
 
-2. Launch the script from directory you intend to save your pdfs(If you know some python, and intend to
-use command line, run the script from the directory you want)
+HOW TO USE THE PDF DOWNLOADER SCRIPT.
 
-3. Wait until the download is finished(depending on your internet connection and the size of the files). It is
+1. Make sure you have python installed on your computer.
+
+2. Save the script file to directory you want the pdfs to download to.
+
+3. Copy the URL to the page you want to download from.
+
+4. Launch the script from your specified directory.
+
+5. Wait until the download is finished(depending on your internet connection and the size of the files). It is
 advisable to leave the window opened until the execution finishes.
 
 Written by Omoteniola
